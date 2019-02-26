@@ -1,0 +1,23 @@
+version: '3'
+services:
+  line-chat-bot-jupyter:
+    image: karaswinds/line_bot_python
+    container_name: line-chat-bot-jupyter
+    ports:
+      - "8888:8888"
+      - "80:5000"
+    volumes:
+      - ./code:/home/jovyan/work
+    command: "start-notebook.sh --NotebookApp.token=''"
+  ngrok:
+    image: wernight/ngrok
+    container_name : ngrok
+    ports:
+      - '4040:4040'
+    depends_on:
+      - line-chat-bot-jupyter
+    environment:
+#      NGROK_AUTH:
+      NGROK_PORT: line-chat-bot-jupyter:5000
+      NGROK_REGION: ap
+
