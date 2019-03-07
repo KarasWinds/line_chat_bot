@@ -1,3 +1,0 @@
-{"display_name": "ChuChu", "picture_url": "https://profile.line-scdn.net/0h-arjMgXQck5PE1-TVA4NGXNWfCM4PXQGN3Y6f24SfHhlcTNLdn1oem1Dfy1mcGJMI3Y9eG8Ufipn", "status_message": null, "user_id": "U95744cd0e46851294a4abbe57c7729e4"}
-{"display_name": "ChuChu", "picture_url": "https://profile.line-scdn.net/0h-arjMgXQck5PE1-TVA4NGXNWfCM4PXQGN3Y6f24SfHhlcTNLdn1oem1Dfy1mcGJMI3Y9eG8Ufipn", "status_message": null, "user_id": "U95744cd0e46851294a4abbe57c7729e4"}
-{"display_name": "ChuChu", "picture_url": "https://profile.line-scdn.net/0h-arjMgXQck5PE1-TVA4NGXNWfCM4PXQGN3Y6f24SfHhlcTNLdn1oem1Dfy1mcGJMI3Y9eG8Ufipn", "status_message": null, "user_id": "U95744cd0e46851294a4abbe57c7729e4"}
